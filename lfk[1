@@ -1,0 +1,11 @@
+[33mcommit 9237f41081ac490666ed4523cbf014ef5902199c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: dedenahmadr <dedenahmad@apps.ipb.ac.id>
+Date:   Mon Nov 3 14:34:19 2025 +0700
+
+    Lengkapi koordinat, ambil alamat map sesuai koordinat
+
+[33mcommit c6fc8c908ce127dadce50b6c9d16533da94e3499[m
+Author: dedenahmadr <dedenahmad@apps.ipb.ac.id>
+Date:   Mon Nov 3 11:28:15 2025 +0700
+
+    first commit
